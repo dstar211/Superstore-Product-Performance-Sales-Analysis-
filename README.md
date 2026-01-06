@@ -30,7 +30,7 @@ The Global Superstore was moving massive volume ($2M in Sales), but management w
 ---
 
 ## 🕵️ Analysis Phase 1: The Executive Pulse
-![Executive Dashboard](./images/SUP.png)
+![Executive Dashboard](https://github.com/dstar211/Superstore-Product-Performance-Sales-Analysis-/blob/main/SUP%202.jpg)
 *Figure 1: High-level KPIs*
 
 **The Insight:** I identified a healthy **12.5% overall profit margin**, but a deep dive into the **Sales Table** revealed that while **Technology** brings in the most profit ($145.5K), **Furniture** is struggling with high volume but low returns.
