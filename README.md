@@ -38,7 +38,7 @@ The Global Superstore was moving massive volume ($2M in Sales), but management w
 ---
 
 ## 👥 Analysis Phase 2: Understanding the Customer
-![Customer Insights](./images/SUP 3.jpg)
+![Customer Insights](https://github.com/dstar211/Superstore-Product-Performance-Sales-Analysis-/blob/main/SUP%203.jpg)
 *Figure 2: Customer behavior and spending*
 
 **The Story:** We have **10K customers**, but only an **8% Repeat Customer Rate (RCR)**.
