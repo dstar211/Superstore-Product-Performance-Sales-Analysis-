@@ -48,7 +48,7 @@ The Global Superstore was moving massive volume ($2M in Sales), but management w
 ---
 
 ## 📦 Analysis Phase 3: Product Intelligence
-![Product Insights](./images/SUP 4.jpg)
+![Product Insights](https://github.com/dstar211/Superstore-Product-Performance-Sales-Analysis-/blob/main/SUP%203.jpg)
 *Figure 3: Category and Inventory performance*
 
 **The Finding:** By tracking **38K units sold**, I discovered that **Phones** and **Copiers** are the high-margin heroes. Conversely, the "Highest Quantity Sold" table showed that while we sell many Staples, they contribute very little to the bottom line profit.
