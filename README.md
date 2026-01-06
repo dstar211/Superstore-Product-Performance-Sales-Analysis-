@@ -4,7 +4,7 @@
 The **Superstore Dashboard** provides a comprehensive view of sales, orders, profit, and customer behavior. It enables businesses to uncover growth opportunities, refine strategies, and drive data-based decisions with ease.
 
 ## 🖼️ Dashboard Preview
-![Main Dashboard View](./https://github.com/dstar211/Superstore-Product-Performance-Sales-Analysis-/blob/main/SUPERSTORE%201.PNG)
+![Main Dashboard View](https://github.com/dstar211/Superstore-Product-Performance-Sales-Analysis-/blob/main/SUPERSTORE%201.PNG)
 *Figure 1: Executive Sales Overview showing Regional performance and Profit Margins.*
 
 ## 🔑 Key Insights & Features
